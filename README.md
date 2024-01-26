@@ -1,5 +1,6 @@
 # Articles-to-read
 
+1. [I Sold a Software Business for $20,000 on Acquire.com. Here’s What I Learned.](https://readmedium.com/en/https:/medium.com/@_michaellin/i-sold-a-software-business-for-20-000-on-acquire-com-heres-what-i-learned-ac600c2a248f)
 1. [Node-express-postgres-boilerplate](https://github.dev/japananh/node-express-postgres-boilerplate)
 1. [You Don’t Know Node.js EventLoop, The Ultimate Guide to Understanding EventLoop in Node.js
 ](https://blog.bitsrc.io/you-dont-know-node-js-eventloop-8ee16831767)
