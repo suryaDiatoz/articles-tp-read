@@ -12,4 +12,15 @@
 5. [Implementing Role-Based Access Control (RBAC) in Node.js](https://medium.com/@techsuneel99/implementing-role-based-access-control-rbac-in-node-js-871591b80a83)
 
 6.  [15 Killer Websites for Web Developers](https://javascript.plainenglish.io/15-killer-websites-for-web-developers-97113695e775)
+7.  https://getbootstrap.com/docs/4.0/layout/grid/#grid-options
+
+8.  https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/
+
+9. https://github.com/facebook/react-native/branches/active
+
+10. https://www.engati.com/blog/git-branching-strategies#:~:text=GIT%20branching%20strategies%20are%20patterns,%2C%20stability%2C%20%26%20release%20management.
+
+11. https://phoenixnap.com/kb/git-branch-name-convention
+
+12. https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534
 
