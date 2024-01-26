@@ -8,3 +8,5 @@
 3. [How I Discovered an RCE Vulnerability in Tesla, Securing a $10,000 Bounty](https://medium.com/@sahul1996l/how-i-discovered-an-rce-vulnerability-in-tesla-securing-a-10-000-bounty-62e725c2a6bd)
 
 4. [Implementing Role-Based Access Control (RBAC) in Node.js](https://medium.com/@techsuneel99/implementing-role-based-access-control-rbac-in-node-js-871591b80a83)
+
+5.  [15 Killer Websites for Web Developers](https://javascript.plainenglish.io/15-killer-websites-for-web-developers-97113695e775)
