@@ -23,4 +23,5 @@
 11. https://phoenixnap.com/kb/git-branch-name-convention
 
 12. https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534
+13. https://medium.com/@manikmudholkar831995/worker-threads-multitasking-in-nodejs-6028cdf35e9d
 
