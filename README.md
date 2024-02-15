@@ -18,3 +18,7 @@
 16. [Naming Conventions for Git Branches: A Cheatsheet](https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534)
 17. [Worker Threads Multitasking in Node.js](https://medium.com/@manikmudholkar831995/worker-threads-multitasking-in-nodejs-6028cdf35e9d)
 18. [Guide to Send Flash Messages using Node.js](https://peeyushjss.medium.com/guide-to-send-flash-messages-using-nodejs-b4f83d4b0bd7)
+
+
+# Extensions
+1. [Extension to Read Premium Medium Articles For Free](https://chrome.google.com/webstore/detail/egejbknaophaadmhijkepokfchkbnelc)
