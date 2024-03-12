@@ -23,3 +23,7 @@
 
 # Extensions
 1. [Extension to Read Premium Medium Articles For Free](https://chrome.google.com/webstore/detail/egejbknaophaadmhijkepokfchkbnelc)
+2. To Read Medium Articles for Free Paste this code in console
+   ```js
+   javascript: (function () { window.location = window.location.toString().replace("https://", "https://freedium.cfd/"); })();
+   ```
