@@ -19,8 +19,8 @@
 17. [Worker Threads Multitasking in Node.js](https://medium.com/@manikmudholkar831995/worker-threads-multitasking-in-nodejs-6028cdf35e9d)
 18. [Guide to Send Flash Messages using Node.js](https://peeyushjss.medium.com/guide-to-send-flash-messages-using-nodejs-b4f83d4b0bd7)
 19. [18 Advanced JavaScript Techniques for Expert Developers](https://webcache.googleusercontent.com/search?q=cache:https://javascript.plainenglish.io/18-advanced-javascript-techniques-for-expert-developers-23633e62d4d2&strip=0&vwsrc=1&referer=medium-parser)
-20. [Node Js Basics ](https://umarfarooquekhan.medium.com/node-js-interview-questions-and-answer-part-2-7b2dbe8e5f48)
-21. [Node Js Basics ](https://umarfarooquekhan.medium.com/top-10-node-js-interview-questions-and-answer-6cad1a65a518)
+20. [Node Js Basics I ](https://umarfarooquekhan.medium.com/node-js-interview-questions-and-answer-part-2-7b2dbe8e5f48)
+21. [Node Js Basics II ](https://umarfarooquekhan.medium.com/top-10-node-js-interview-questions-and-answer-6cad1a65a518)
 22. [What Sam Altman's Prediction About The $1B One-Person Business Model Means For You](https://freedium.cfd/medium.com/swlh/what-sam-altmans-prediction-about-the-1b-one-person-business-model-means-for-you-4d1329a052ff)
 
 
