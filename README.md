@@ -22,6 +22,7 @@
 20. [Node Js Basics I ](https://umarfarooquekhan.medium.com/node-js-interview-questions-and-answer-part-2-7b2dbe8e5f48)
 21. [Node Js Basics II ](https://umarfarooquekhan.medium.com/top-10-node-js-interview-questions-and-answer-6cad1a65a518)
 22. [What Sam Altman's Prediction About The $1B One-Person Business Model Means For You](https://freedium.cfd/medium.com/swlh/what-sam-altmans-prediction-about-the-1b-one-person-business-model-means-for-you-4d1329a052ff)
+23. [Architecture of a modern chat app, Great Indept Article, The only Article need to build full end to end chat app](https://medium.com/@rishabh011/enterprise-grade-architecture-of-a-modern-chat-app-d60a11867255)
 
 
 # Extensions
