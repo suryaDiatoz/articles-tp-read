@@ -26,6 +26,7 @@
 24. [Node Js Basics II ](https://umarfarooquekhan.medium.com/top-10-node-js-interview-questions-and-answer-6cad1a65a518)
 25. [What Sam Altman's Prediction About The $1B One-Person Business Model Means For You](https://freedium.cfd/medium.com/swlh/what-sam-altmans-prediction-about-the-1b-one-person-business-model-means-for-you-4d1329a052ff)
 26. [Architecture of a modern chat app, Great Indept Article, The only Article need to build full end to end chat app](https://medium.com/@rishabh011/enterprise-grade-architecture-of-a-modern-chat-app-d60a11867255)
+27. [Phone number verification via OTP in Node JS](https://medium.com/@phone-email/phone-number-verification-via-otp-in-node-js-e6530b267dbb)
 
 
 # Extensions
