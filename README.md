@@ -35,3 +35,66 @@
    ```js
    javascript: (function () { window.location = window.location.toString().replace("https://", "https://freedium.cfd/"); })();
    ```
+
+
+
+# ChatGpt Prompts
+## 1. Prompt 1: Creating the Perfect Bio
+
+   A good bio describes your personality, interests, and mission to people who visit your profile. 
+   For them to click follow it needs to be very refined and compelling. Your goal is to drive people to 
+   your page and click follow.
+
+   Before using this prompt, you need to identify 10 different influencers from your niche creating content
+   that interests you. Copy their bios & put them into this prompt and let ChatGPT do the work.
+      
+  ```js
+       Prompt: "I create content related to [YOUR NICHE INFO] on X. I want you to write a professional bio for my profile.
+       Here are some examples of bios that you can take as an example when creating my bio [COPY AND PASTE THE BIOS].
+       Brainstorm 10 potential bios tailored to me using the given examples as an inspiration for style and ideas."
+   
+  ````
+   You can pick any one from the 10 ideas and ask ChatGPT to remove or add any info.
+
+
+## 2. Prompt 2: Repurposing Content
+
+   Creating original content is hard and time-consuming in this fast-paced world. But, that's where ChatGPT can help you the most.
+   Find long-form articles or videos related to your niche.
+
+  Paste them into this high-value prompt and ChatGPT will do the rest.
+
+  PS: If you're using videos, first get a whole summary of it using any extension or the Bing sidebar.
+
+     ```js
+     Prompt: "I found this nice article [Paste the whole article].
+     Turn this article into 3 different Twitter threads of each [Desired length] taking the best pieces out of it.
+
+     ```
+## Prompt 3: Quote Tweets
+
+Many people don't know this but quote-tweeting an already popular tweet will show it to many others and 
+will also help you build networks.
+
+But what comments you make matters the most.
+
+This prompt will help you brainstorm comments for quote tweets.
+
+```js
+Prompt: "I found this tweet [Paste the tweet] that is doing well. I would like to retweet it with my views.
+Brainstorm 5 possible comments I can make to it.
+``` 
+
+## Prompt 4: Replying to Comments
+
+Once your tweets start getting engagement, people will comment their views, questions, etc. 
+Replying to them is a must as that's how you build trust with your existing audience and grow. 
+But most people seem to not know how to reply to tweets. 
+This prompt will help you brainstorm replies.
+
+```js
+Prompt: "I posted this [The tweet you put out] on my Twitter page related to [Insert your page info].
+A guy commented on it saying [Paste the comment].
+Brainstorm 10 [Tone of the reply (optional)] replies that I can give to him.
+```
+
