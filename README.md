@@ -1,5 +1,6 @@
 # Articles to Read
 
+1. [Prioritizing Resources Reduces JS Loading Time by 67%](https://freedium.cfd/medium.com/@Choco23/prioritizing-resources-reduces-js-loading-time-by-67-8139053444b5)
 1. [I Sold a Software Business for $20,000 on Acquire.com. Here’s What I Learned.](https://readmedium.com/en/https:/medium.com/@_michaellin/i-sold-a-software-business-for-20-000-on-acquire-com-heres-what-i-learned-ac600c2a248f)
 2. [Node-express-postgres-boilerplate](https://github.dev/japananh/node-express-postgres-boilerplate)
 3. [Create Full Stack Kanban with NEXT, REDUX](https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/)
