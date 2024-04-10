@@ -67,11 +67,11 @@
 
   PS: If you're using videos, first get a whole summary of it using any extension or the Bing sidebar.
 
-     ```js
+   ```js
      Prompt: "I found this nice article [Paste the whole article].
      Turn this article into 3 different Twitter threads of each [Desired length] taking the best pieces out of it.
 
-     ```
+   ```
 ## Prompt 3: Quote Tweets
 
 Many people don't know this but quote-tweeting an already popular tweet will show it to many others and 
