@@ -30,6 +30,11 @@
 27. [Phone number verification via OTP in Node JS](https://medium.com/@phone-email/phone-number-verification-via-otp-in-node-js-e6530b267dbb)
 
 
+# NODE
+
+1. [5 Mistakes made by Node.js Beginners — Part 1](https://medium.com/deno-the-complete-reference/5-mistakes-made-by-node-js-beginners-part-1-3efda8c14c1c)
+2. [5 Advanced Uses Of Promises You Should Know](https://freedium.cfd/blog.stackademic.com/5-advanced-uses-of-promises-you-should-know-cbc504f9f91b)
+
 # Extensions
 1. [Extension to Read Premium Medium Articles For Free](https://chrome.google.com/webstore/detail/egejbknaophaadmhijkepokfchkbnelc)
 2. To Read Medium Articles for Free Paste this code in console
