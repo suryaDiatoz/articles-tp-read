@@ -34,6 +34,7 @@
 
 1. [5 Mistakes made by Node.js Beginners — Part 1](https://medium.com/deno-the-complete-reference/5-mistakes-made-by-node-js-beginners-part-1-3efda8c14c1c)
 2. [5 Advanced Uses Of Promises You Should Know](https://freedium.cfd/blog.stackademic.com/5-advanced-uses-of-promises-you-should-know-cbc504f9f91b)
+3. [Build a Global Exception Handler using Express.js & TypeScript](https://mirzaleka.medium.com/build-a-global-exception-handler-using-express-js-typescript-b9bb2f521e5e)
 
 # Extensions
 1. [Extension to Read Premium Medium Articles For Free](https://chrome.google.com/webstore/detail/egejbknaophaadmhijkepokfchkbnelc)
