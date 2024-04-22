@@ -36,6 +36,7 @@
 2. [5 Advanced Uses Of Promises You Should Know](https://freedium.cfd/blog.stackademic.com/5-advanced-uses-of-promises-you-should-know-cbc504f9f91b)
 3. [Build a Global Exception Handler using Express.js & TypeScript](https://mirzaleka.medium.com/build-a-global-exception-handler-using-express-js-typescript-b9bb2f521e5e)
 4. [importance of Exception Handling](https://mirzaleka.medium.com/server-side-exception-handling-patterns-practices-a889d0c557)
+5. [Automated Logging in Express.js](https://mirzaleka.medium.com/automated-logging-in-express-js-a1f85ca6c5cd)
 
 # Extensions
 1. [Extension to Read Premium Medium Articles For Free](https://chrome.google.com/webstore/detail/egejbknaophaadmhijkepokfchkbnelc)
