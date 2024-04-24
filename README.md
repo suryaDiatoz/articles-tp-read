@@ -37,6 +37,7 @@
 3. [Build a Global Exception Handler using Express.js & TypeScript](https://mirzaleka.medium.com/build-a-global-exception-handler-using-express-js-typescript-b9bb2f521e5e)
 4. [importance of Exception Handling](https://mirzaleka.medium.com/server-side-exception-handling-patterns-practices-a889d0c557)
 5. [Automated Logging in Express.js](https://mirzaleka.medium.com/automated-logging-in-express-js-a1f85ca6c5cd)
+6. [How to Generate QR Codes with Node.js and Express.js](https://medium.com/@mohsinogen/how-to-generate-qr-codes-with-node-js-and-express-js-a098f9a38525)
 
 # Extensions
 1. [Extension to Read Premium Medium Articles For Free](https://chrome.google.com/webstore/detail/egejbknaophaadmhijkepokfchkbnelc)
