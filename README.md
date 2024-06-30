@@ -32,6 +32,10 @@
 
 # NODE
 
+1. [Clean Architecture in Node.js](https://medium.com/@ben.dev.io/clean-architecture-in-node-js-39c3358d46f3)
+1. [Node Service-oriented Architecture](https://www.codementor.io/@evanbechtol/node-service-oriented-architecture-12vjt9zs9i)
+1. [Setting Up a Job Queue in Node.js with BullMQ and Redis in 5 Minutes](https://medium.com/@mjdrehman/setting-up-a-job-queue-in-node-js-with-bullmq-and-redis-in-5-minutes-0f170928c0b5)
+1. [Load Balancer vs Reverse Proxy vs API Gateway](https://medium.com/codenx/load-balancer-vs-reverse-proxy-vs-api-gateway-fcb79912abbf)
 1. [5 Mistakes made by Node.js Beginners — Part 1](https://medium.com/deno-the-complete-reference/5-mistakes-made-by-node-js-beginners-part-1-3efda8c14c1c)
 2. [5 Advanced Uses Of Promises You Should Know](https://freedium.cfd/blog.stackademic.com/5-advanced-uses-of-promises-you-should-know-cbc504f9f91b)
 3. [Build a Global Exception Handler using Express.js & TypeScript](https://mirzaleka.medium.com/build-a-global-exception-handler-using-express-js-typescript-b9bb2f521e5e)
