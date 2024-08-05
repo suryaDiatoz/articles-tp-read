@@ -113,3 +113,11 @@ A guy commented on it saying [Paste the comment].
 Brainstorm 10 [Tone of the reply (optional)] replies that I can give to him.
 ```
 
+
+----------------------------------------------------------------------------------------
+
+GITHUB OUATH 
+
+![image](https://github.com/user-attachments/assets/f7db572f-a1d5-4eb1-8509-0b9d58fce06b)
+
+
