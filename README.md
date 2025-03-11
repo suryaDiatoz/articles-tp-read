@@ -51,6 +51,9 @@
    javascript: (function () { window.location = window.location.toString().replace("https://", "https://freedium.cfd/"); })();
    ```
 
+# REACT-NATIVE
+
+1. [React Native useEffect vs useFocusEffect](https://medium.com/@vahid.vdn/react-native-useeffect-vs-usefocuseffect-15f4f3111213)
 
 
 # ChatGpt Prompts
