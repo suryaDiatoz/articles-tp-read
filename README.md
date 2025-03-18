@@ -43,6 +43,7 @@
 5. [Automated Logging in Express.js](https://mirzaleka.medium.com/automated-logging-in-express-js-a1f85ca6c5cd)
 6. [How to Generate QR Codes with Node.js and Express.js](https://medium.com/@mohsinogen/how-to-generate-qr-codes-with-node-js-and-express-js-a098f9a38525)
 7. [20 core Node.js modules to learn](https://blog.stackademic.com/20-core-node-js-modules-to-learn-48d8b1e40d32)
+8. [Handling Millions of Requests in Node.js: Load Balancing and Clustering](https://javascript.plainenglish.io/handling-millions-of-requests-in-node-js-load-balancing-and-clustering-3a2aa400838e)
 
 # Extensions
 1. [Extension to Read Premium Medium Articles For Free](https://chrome.google.com/webstore/detail/egejbknaophaadmhijkepokfchkbnelc)
