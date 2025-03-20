@@ -56,6 +56,8 @@
 
 1. [React Native useEffect vs useFocusEffect](https://medium.com/@vahid.vdn/react-native-useeffect-vs-usefocuseffect-15f4f3111213)
 
+# REACT
+1. [How React internally works](https://www.youtube.com/watch?v=0jbV6apamhs&list=PLvx8w9g4qv_p-OS-XdbB3Ux_6DMXhAJC3&index=15&ab_channel=JSer)
 
 # ChatGpt Prompts
 ## 1. Prompt 1: Creating the Perfect Bio
