@@ -32,6 +32,7 @@
 
 # NODE
 
+1. [Worker Threads : Multitasking in NodeJS](https://medium.com/@manikmudholkar831995/worker-threads-multitasking-in-nodejs-6028cdf35e9d)
 1. [Clean Architecture in Node.js](https://medium.com/@ben.dev.io/clean-architecture-in-node-js-39c3358d46f3)
 1. [Node Service-oriented Architecture](https://www.codementor.io/@evanbechtol/node-service-oriented-architecture-12vjt9zs9i)
 1. [Setting Up a Job Queue in Node.js with BullMQ and Redis in 5 Minutes](https://medium.com/@mjdrehman/setting-up-a-job-queue-in-node-js-with-bullmq-and-redis-in-5-minutes-0f170928c0b5)
